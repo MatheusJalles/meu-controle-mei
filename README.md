@@ -64,4 +64,4 @@ Escaneie o QR code com o app **Expo Go** no celular.
 ## 👨‍💻 Autor
 
 **Matheus Jalles** — Desenvolvedor Mobile | ADS · PUC Minas  
-[mtjales@gmail.com](mailto:mtjales@gmail.com)
+[contato.matheusjalles@gmail.com](mailto:contato.matheusjalles@gmail.com)
