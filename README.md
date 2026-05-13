@@ -57,7 +57,7 @@ Escaneie o QR code com o app **Expo Go** no celular.
 ## 🔗 Links
 
 - 👤 [Portfólio](https://matheusjalles.github.io/portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-jalles-3078881a8/)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/matheus-jalles )
 
 ---
 
