@@ -1,67 +1,32 @@
-# 💼 Meu Controle MEI
+# Meu Controle MEI
 
-Aplicativo mobile para controle financeiro de microempreendedores individuais (MEI) — registro de receitas, despesas e geração de relatórios simples.
+App mobile para controle financeiro de microempreendedores: registro de receitas, despesas e geração de relatórios.
 
-> **Status:** 🚧 Em desenvolvimento
-
----
-
-## 🎯 Problema que resolve
-
-Microempreendedores muitas vezes não têm como acompanhar suas finanças de forma prática. O Meu Controle MEI oferece uma interface mobile simples para registrar entradas e saídas e visualizar um resumo financeiro no dia a dia.
+> Em desenvolvimento ativo
 
 ---
 
-## 🚀 Funcionalidades
+## Tecnologias
 
-- 📥 Registro de receitas e despesas
-- 📊 Relatório financeiro mensal
-- 🗂️ Organização por categoria de serviço
-- 📱 Interface mobile-first com foco em usabilidade
+- React Native
+- Expo
+- JavaScript
 
----
+## Funcionalidades
 
-## 🛠️ Tecnologias
+- Registro de receitas e despesas
+- Relatório financeiro por período
+- Interface focada em usabilidade para MEI
 
-| Camada | Tecnologia |
-|--------|-----------|
-| Mobile | React Native · Expo |
-| Linguagem | JavaScript |
-| Ambiente | Expo Go |
-| Controle de versão | Git / GitHub |
-
----
-
-## 📲 Como rodar localmente
+## Como rodar localmente
 
 ```bash
-# Pré-requisitos: Node.js e Expo CLI instalados
-
-git clone https://github.com/MatheusJalles/meu-controle-mei
-cd meu-controle-mei
+git clone https://github.com/MatheusJalles/MeuControleMEI
+cd MeuControleMEI
 npm install
 npx expo start
 ```
 
-Escaneie o QR code com o app **Expo Go** no celular.
-
 ---
 
-## 📸 Screenshots
-
-<!-- Adicione prints aqui -->
-> _Prints disponíveis no portfólio: [matheusjalles.github.io/portfolio](https://matheusjalles.github.io/portfolio)_
-
----
-
-## 🔗 Links
-
-- 👤 [Portfólio](https://matheusjalles.github.io/portfolio)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/matheus-jalles )
-
----
-
-## 👨‍💻 Autor
-
-**Matheus Jalles** — Desenvolvedor Mobile | ADS · PUC Minas  
-[contato.matheusjalles@gmail.com](mailto:contato.matheusjalles@gmail.com)
+Desenvolvido por [Matheus Jalles](https://www.linkedin.com/in/matheus-jalles)
