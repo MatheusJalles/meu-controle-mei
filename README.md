@@ -21,7 +21,7 @@ App mobile para controle financeiro de microempreendedores: registro de receitas
 ## Como rodar localmente
 
 ```bash
-git clone https://github.com/MatheusJalles/MeuControleMEI
+git clone https://github.com/MatheusJalles/meu-controle-mei
 cd MeuControleMEI
 npm install
 npx expo start
